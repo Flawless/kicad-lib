@@ -552,6 +552,12 @@ K diode
 F http://www.onsemi.com/pub_link/Collateral/HN2D02FUTW1T1-D.PDF
 $ENDCMP
 #
+$CMP KDS111C
+D BAV99 High-speed switching diodes
+K diode
+F www.nxp.com/documents/data_sheet/BAV99_SER.pdf
+$ENDCMP
+#
 $CMP LL41
 D 100V 0.1A Small Signal Schottky diode, MiniMELF
 K diode Schottky
