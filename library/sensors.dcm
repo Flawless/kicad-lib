@@ -108,6 +108,12 @@ K hall switch
 F http://www.allegromicro.com/~/media/Files/Datasheets/A1301-2-Datasheet.ashx
 $ENDCMP
 #
+$CMP ACS712
+D Current sensor
+K current
+F https://lib.chipdip.ru/242/DOC000242949.pdf
+$ENDCMP
+#
 $CMP AD8418
 D Bidirectional zero-drift current sense amplifier, 20V/V
 K current sense amplifier shunt high side bidirectional

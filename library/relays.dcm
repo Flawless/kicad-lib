@@ -318,4 +318,10 @@ K Single Pole Relay
 F https://cdn-reichelt.de/documents/datenblatt/C300/DS_HJR4102E.pdf
 $ENDCMP
 #
+$CMP TRU-5VDC-SB-CL
+D TRU-5VDC-SB-CL relay, Subminiature, Sensitive SPDT Signal Switching Relay, Single-Side Stable
+K Single Pole Relay SPDT
+F http://www.promelec.ru/pdf/TRU.pdf
+$ENDCMP
+#
 #End Doc Library
